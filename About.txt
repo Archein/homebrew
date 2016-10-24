@@ -1,0 +1,20 @@
+Project for Fun and Learning (FFNL)
+
+Project Manager:  Opan 
+Project Member:   Farid, Acap, Adli, Alif
+Project Officially Started: 20/10/2016 
+Project Dateline: 1/1/2017
+Project Aim: Focus more on technical parts (developing apps) + simple 
+	       documentation 
+Project Basic Idea: GPS-based (trip planner) 
+---------------------------------------------------------------------------------
+
+Specification Documents 
+
+1. Project Purpose and Scope [opan] 
+2. Functional & Non-functional requirement [pakok][ayid]
+3. Project platform (what every member should learn to use the platform) [acap]
+4. Use cases [adli]
+ 
+Milestone 1	: due date (27/10) duration 1 week 
+		: specification Documents 
